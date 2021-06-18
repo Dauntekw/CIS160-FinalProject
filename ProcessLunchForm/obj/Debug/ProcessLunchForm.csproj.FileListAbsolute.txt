@@ -1,0 +1,10 @@
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\bin\Debug\ProcessLunchForm.exe.config
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\bin\Debug\ProcessLunchForm.exe
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\bin\Debug\ProcessLunchForm.pdb
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.csprojAssemblyReference.cache
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.frmLunchOrder.resources
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.Properties.Resources.resources
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.csproj.GenerateResource.cache
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.csproj.CoreCompileInputs.cache
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.exe
+C:\Users\daunt\Desktop\Homework 10\ProcessLunchForm\ProcessLunchForm\obj\Debug\ProcessLunchForm.pdb
